@@ -53,7 +53,8 @@ Based on the EDA, several key insights were identified:
 
 ## Acknowledgements
 - This project was inspired by the upGrad Data Science course.
-- References: [Lending Club](https://www.lendingclub.com/)
+- References: Exploratory Data Analysis course by S Anand, CEO Gramener
+- This project was based on Course 2 - Statistics Essential
 - Based on the tutorial and data provided by Lending Club and upGrad.
 
 ## Contact
